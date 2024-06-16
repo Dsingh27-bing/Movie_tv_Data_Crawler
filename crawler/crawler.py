@@ -13,8 +13,8 @@ from datetime import datetime
 client_id = "v-L_Un0PpdtiVZ6Eu30Sxw"
 client_secret = "MEJIdGSeeqVdJlZcyBvi60W9CTcCuA"
 user_agent = "Reddit_Project_API/0.0.1 by /u/CS515SMDP"
-username = "CS515SMDP"
-password = "DDJJR@2108"
+username = "demo"
+password = "demo"
 
 # data member definitions
 all_movies_titles={}
